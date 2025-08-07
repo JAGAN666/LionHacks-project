@@ -164,14 +164,6 @@ npm run dev
 - Run `cd contracts && npm run node` for local blockchain
 - Deploy with `npm run deploy:local`
 
-## 📊 Judging Criteria Coverage
-
-✅ **Innovation**: First cross-university NFT achievement platform  
-✅ **Technical Excellence**: Full-stack TypeScript, smart contracts, multichain  
-✅ **User Experience**: Intuitive onboarding, responsive design  
-✅ **Business Impact**: Solves real academic verification problem  
-✅ **Scalability**: Framework supports unlimited universities/opportunities  
-✅ **Demo-Ready**: Complete working system in 30 seconds  
 
 ## 🏃‍♂️ Production Deployment
 
