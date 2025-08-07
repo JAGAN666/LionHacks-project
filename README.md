@@ -4,7 +4,7 @@
 
 Transform your academic accomplishments into dynamic NFTs that unlock exclusive opportunities across partner universities. Built for the hackathon winner who wants to revolutionize how academic achievements are verified, showcased, and rewarded.
 
-## 🏆 Hackathon-Winning Features
+## 🏆 Hackathon-
 
 ### 🎯 The Big Idea
 A multichain platform where students earn dynamic NFTs for academic achievements that unlock exclusive opportunities across ALL participating universities.
